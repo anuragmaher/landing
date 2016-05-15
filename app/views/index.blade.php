@@ -112,11 +112,15 @@
     <!-- #features2 end -->
     
     <!-- #features3 -->
-    <div id="features3" class="row-section border-bottom">
+    <div id="howitworks" class="row-section border-bottom">
         
         <!-- .container -->
         <div class="container">
             
+            <div class="post-heading-center animation" data-animation="animation-fade-in-down">
+                <h2>How it works</h2>
+            </div>
+
             <!-- .row -->
             <div class="row">
                 
@@ -206,6 +210,10 @@
 	
     <!-- .container -->
 	<div class="container">
+
+                <div class="post-heading-center animation" data-animation="animation-fade-in-down">
+            <h2>What users say about GmailSharedTasks</h2>
+        </div>
         
         <div class="affa_testimonials_carousel carousel-slider general-slider animation" data-animation="animation-fade-in-down">
             <div class="testimonial-item"> <!-- 1 -->
@@ -269,16 +277,15 @@
         
         <div class="post-heading-center animation" data-animation="animation-fade-in-down">
             <h2>Simple Pricing</h2>
-            
         </div>
         
         <div class="tbl-pricing tbl-prc-recommended animation" data-animation="animation-fade-in-up">
             <div class="row">
-                <div class="col-sm-6 tbl-prc-col col-sm-offset-3"> 
+                <div class="col-sm-4 tbl-prc-col col-sm-offset-4"> 
                     <div class="tbl-prc-base">
-                    	<h4 class="tbl-prc-heading">GmailSharedTasks "Plus user" pricing</h4>
+                    	<h4 class="tbl-prc-heading">Plus user</h4>
                         <ul class="tbl-prc-list">
-                        	<li><i class="fa fa-check"></i><sup>$</sup> Yearly $25 / user</li>
+                        	<li><i class="fa fa-check"></i> Yearly $25 / user</li>
                         	<li><i class="fa fa-check"></i> Unlimited Shared Lists</li>
                             <li><i class="fa fa-check"></i> Automatic sync within 5 minutes</li>
                             <li><i class="fa fa-check"></i> Instant Support</li>
@@ -288,8 +295,9 @@
 
             </div>
         </div>
-        <p class="text-center">Note: You can change or cancel your plan at anytime. Contact<a href="mailto:support@gmailsharedtasks.com"> support@gmailsharedtasks.com </a>to become "Plus" user.</p>
-        
+        <div class="row margin-top50">
+                    <p class="text-center">Note: You can change or cancel your plan at anytime. Contact<a href="mailto:support@gmailsharedtasks.com"> support@gmailsharedtasks.com </a>to become "Plus" user.</p>            
+        </div>
 	</div>
     <!-- .container end -->
 </div>

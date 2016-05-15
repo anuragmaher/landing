@@ -5,11 +5,6 @@
 <div class="login-page">
 
   <div class="form">
-    <form class="register-form">
-      <input type="text" placeholder="email address"/>
-      <button>create</button>
-      <p class="message">Already registered? <a href="#">Sign In</a></p>
-    </form>
     <form class="login-form">
     <h1> Sign up for Free!!</h1>
       <input type="text" placeholder="Enter your Gmail/Google Apps email id"/>

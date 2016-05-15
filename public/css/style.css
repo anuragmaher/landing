@@ -805,7 +805,7 @@ button.close:hover {
 /* Header Content */
 #header .header-content {
 	text-align:center;
-	padding-top:2.375em;
+	padding-top:4em;
 }
 	#header .header-content .header-heading-title { margin-bottom:40px; }
 		#header .header-content .header-heading-title p, #header .header-content .header-heading-title h2, #header .header-content .header-heading-title h3, #header .header-content .header-heading-title h4, #header .header-content .header-heading-title h5, #header .header-content .header-heading-title h6 {

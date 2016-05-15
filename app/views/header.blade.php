@@ -17,10 +17,10 @@
             
             <ul class="nav navbar-nav">
                 <li><a href="/#header" class="smooth-scroll">Home</a></li>
-                <li><a href="/#features" class="smooth-scroll">How it Works</a></li>
+                <li><a href="/#howitworks" class="smooth-scroll">How it Works</a></li>
                 <li><a href="/#testimonials" class="smooth-scroll">Testimonials</a></li>
                 <li><a href="/#pricing" class="smooth-scroll">Pricing</a></li>
-                <li><a href="/#bottom" class="smooth-scroll">Login/Signup</a></li>
+                <li><a href="/login" class="smooth-scroll">Login/Signup</a></li>
             </ul>
             
 		</div>
@@ -31,4 +31,4 @@
 
 </header>
 <!-- #header end -->
-    
+
